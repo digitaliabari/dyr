@@ -1,0 +1,11 @@
+{
+	
+	"Sesione": "1AI",
+	"Orario": [
+		{
+			"lun": ["matematica, inglese"]
+			"mar": ["italiano", "matematica, inglese"]
+
+		}
+	]
+}
